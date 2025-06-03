@@ -50,5 +50,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     },
   });
 
-  return res.status(200).json({ init_point: response.init_point });
+  return res.status(200).json({ 
+    init_point: response.init_point, 
+    orderId: order.id,
+  });
 }
