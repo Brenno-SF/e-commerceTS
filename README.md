@@ -47,7 +47,7 @@ Cria um novo vendedor.
 ```
 
 🖼️
-![Registro](./imgs/1.jpg)
+![Registro](./imgs/1.jpeg)
 
 ---
 
@@ -67,7 +67,7 @@ Autentica o vendedor e retorna um token (se implementado).
 ```
 
 🖼️
-![Login](./imgs/2.jpg)
+![Login](./imgs/2.jpeg)
 
 ---
 
@@ -95,7 +95,7 @@ Authorization: Bearer {token}
 ```
 
 🖼️
-![Criar Produto](./imgs/3.jpg)
+![Criar Produto](./imgs/3.jpeg)
 
 ---
 
@@ -105,7 +105,7 @@ Authorization: Bearer {token}
 - Endpoint: /api/products
 
 🖼️
-![Listar Produtos](./imgs/4.jpg)
+![Listar Produtos](./imgs/4.jpeg)
 
 ---
 
@@ -131,7 +131,7 @@ Authorization: Bearer {token}
 ```
 
 🖼️
-![Atualizar Produto](./imgs/5.jpg)
+![Atualizar Produto](./imgs/5.jpeg)
 
 ---
 
@@ -146,7 +146,7 @@ Authorization: Bearer {token}
 ```
 
 🖼️
-![Deletar Produto](./imgs/6.jpg)
+![Deletar Produto](./imgs/6.jpeg)
 
 ---
 
@@ -169,7 +169,7 @@ Cria um pedido e inicia o pagamento com o Mercado Pago.
 ```
 
 🖼️
-![Checkout](./imgs/7.jpg)
+![Checkout](./imgs/7.jpeg)
 
 ---
 
