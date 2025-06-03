@@ -181,7 +181,7 @@ Consulta detalhes de um pedido específico.
 - Endpoint: /api/order/:id
 
 🖼️
-![Pedido por ID](./imgs/8.jpg)
+![Pedido por ID](./imgs/8.jpeg)
 
 ---
 
